@@ -41,8 +41,8 @@ Po uložení a zavření soubou `settings.json` vypněte a zapněte VS code, př
 Otevři terminál (`ctrl + ;`) -> **Git Bash Portable** (v dolní liště VS Code vyber profil terminálu - vedle pluska malý zobáček dolů) a **zadej po 1 řádku**:
 
 ```bash
-git config --global user.email "tvuj@email.cz"
-git config --global user.name "TvujNick"
+git config --global user.email "nguyenhaiphong703@gmail.com"
+git config --global user.name "Phong35"
 git config --global credential.helper store
 ```
 
