@@ -1,4 +1,3 @@
-jmeno = input(" Jak se jmenuješ? ")
-jidlo = input("Jaké je tvoje oblibené jídlo? ")
-
-print
+a = 3
+b = 4
+print("Sčítání:", a, "+", b, "=", a + b)
