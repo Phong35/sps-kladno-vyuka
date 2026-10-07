@@ -1,1 +1,1 @@
-print ("linh jeu") * 100
+
